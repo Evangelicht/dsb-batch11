@@ -8,3 +8,8 @@ My data science and analytics projects
 3. R programming - RPS (rock, paper, scissors)
 4. Looker GA4 dashboard
 5. Linear regression model using caret
+
+## Contact me
+reach out to me at ...
+
+## Image
